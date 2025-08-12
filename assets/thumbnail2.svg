@@ -1,0 +1,8 @@
+<svg width="400" height="240" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="240" fill="#011426"/>
+  <circle cx="200" cy="120" r="80" fill="#FEDF27"/>
+  <text x="200" y="100" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#011426">THUMBNAIL 2</text>
+  <text x="200" y="130" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#011426">Placeholder Image</text>
+  <text x="200" y="150" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#011426">Replace with your work</text>
+</svg>
+
